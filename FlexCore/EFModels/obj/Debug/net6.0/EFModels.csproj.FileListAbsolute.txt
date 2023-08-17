@@ -1,0 +1,28 @@
+C:\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.deps.json
+C:\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.runtimeconfig.json
+C:\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.dll
+C:\Flex\FlexCore\EFModels\bin\Debug\net6.0\EFModels.pdb
+C:\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.csproj.AssemblyReference.cache
+C:\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.AssemblyInfoInputs.cache
+C:\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.AssemblyInfo.cs
+C:\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.csproj.CoreCompileInputs.cache
+C:\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.dll
+C:\Flex\FlexCore\EFModels\obj\Debug\net6.0\refint\EFModels.dll
+C:\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.pdb
+C:\Flex\FlexCore\EFModels\obj\Debug\net6.0\EFModels.genruntimeconfig.cache
+C:\Flex\FlexCore\EFModels\obj\Debug\net6.0\ref\EFModels.dll
+C:\Flex test\FlexCore\EFModels\bin\Debug\net6.0\EFModels.deps.json
+C:\Flex test\FlexCore\EFModels\bin\Debug\net6.0\EFModels.runtimeconfig.json
+C:\Flex test\FlexCore\EFModels\bin\Debug\net6.0\EFModels.dll
+C:\Flex test\FlexCore\EFModels\bin\Debug\net6.0\EFModels.pdb
+C:\Flex test\FlexCore\EFModels\obj\Debug\net6.0\EFModels.csproj.AssemblyReference.cache
+C:\Flex test\FlexCore\EFModels\obj\Debug\net6.0\EFModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Flex test\FlexCore\EFModels\obj\Debug\net6.0\EFModels.AssemblyInfoInputs.cache
+C:\Flex test\FlexCore\EFModels\obj\Debug\net6.0\EFModels.AssemblyInfo.cs
+C:\Flex test\FlexCore\EFModels\obj\Debug\net6.0\EFModels.csproj.CoreCompileInputs.cache
+C:\Flex test\FlexCore\EFModels\obj\Debug\net6.0\EFModels.dll
+C:\Flex test\FlexCore\EFModels\obj\Debug\net6.0\refint\EFModels.dll
+C:\Flex test\FlexCore\EFModels\obj\Debug\net6.0\EFModels.pdb
+C:\Flex test\FlexCore\EFModels\obj\Debug\net6.0\EFModels.genruntimeconfig.cache
+C:\Flex test\FlexCore\EFModels\obj\Debug\net6.0\ref\EFModels.dll
